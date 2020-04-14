@@ -1,0 +1,42 @@
+html,body{
+	width: 100%;
+	height: 100%;
+
+}
+h1 {
+	text-transform:uppercase;
+	color:#ffffff;
+}
+
+hr{
+	max-width: 65px;
+	border-color:#B13E3E;
+
+}
+
+.buffer {
+	height: 10rem;
+}
+body{
+	background: url(825868_5f8f3758f5.jpg) no-repeat center center fixed;
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.button {
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 300px;
+	padding:1rem 3rem;
+	background-color: #B13E3E
+
+
+
+
+
+
+
+
+
+}
